@@ -1,5 +1,2 @@
-http://blog.matthewgerstman.com/* https://matthewgerstman.com/:splat 301!
-https://blog.matthewgerstman.com/* https://matthewgerstman.com/:splat 301!
-
-http://www.matthewgerstman.com/* https://matthewgerstman.com/:splat 301!
-https://www.matthewgerstman.com/* https://matthewgerstman.com/:splat 301!
+http://blog.matthewgerstman.com/* https://www.matthewgerstman.com/:splat 301!
+https://blog.matthewgerstman.com/* https://www.matthewgerstman.com/:splat 301!
